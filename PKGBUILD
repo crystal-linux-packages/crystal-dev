@@ -1,4 +1,4 @@
-# Maintainer: Matt C <matt[at]getcryst[dot]al>
+# Maintainer: echo -n 'bWF0dEBnZXRjcnlzdC5hbA==' | base64 --decode
 
 pkgname=crystal-dev
 pkgver=1.0.0
